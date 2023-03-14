@@ -1,2 +1,2 @@
 # RoboToe
-Robotic arm capable of playing tic tac toe
+Arduino robotic arm capable of playing tic tac toe with ping-pong balls.
