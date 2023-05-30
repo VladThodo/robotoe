@@ -70,7 +70,7 @@ void wakeUp(){       // Init all servo positions
    delay(200);
 }
 
-void makeWay(){    // MOve our fat ass out of the way and let the player place a ball on the board
+void makeWay(){ 
   sweep_servo(SHOULDER_SERVO, prev_shoulder_pos, SHOULDER_START);
   sweep_servo(ELBOW_SERVO, prev_elbow_pos, ELBOW_START);
 }
